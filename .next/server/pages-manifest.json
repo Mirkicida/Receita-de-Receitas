@@ -1,6 +1,12 @@
 {
   "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/contato": "pages/contato.html",
+  "/": "pages/index.html",
+  "/receitas/doces/brigadeirao-gourmet": "pages/receitas/doces/brigadeirao-gourmet.html",
+  "/receitas/doces/cookie": "pages/receitas/doces/cookie.html",
+  "/receitas/doces/pudim": "pages/receitas/doces/pudim.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }

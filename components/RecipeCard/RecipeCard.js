@@ -6,7 +6,7 @@ export default function RecipeCard(props){
 
             <figure className="recipe-card"> 
 
-            <Link href="/receitas/doces/brigadeiro">
+            <Link href={props.link}>
             <a>
                 <img classname="recipe-picture" src={props.imge} width="320" />
             </a>

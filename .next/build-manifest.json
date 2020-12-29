@@ -1,33 +1,65 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-761982c2fac2274a18f7.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "devFiles": [],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/a74ak0cOjYZ5NFKnm7cGx/_buildManifest.js",
+    "static/a74ak0cOjYZ5NFKnm7cGx/_ssgManifest.js"
   ],
   "pages": {
     "/": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/ee21ec4b31d9c7b318cea5284922641829921ca0.1f52a3ec41a5d5095e70.js",
+      "static/chunks/fc7724bc6d070af0151e44d2e675fed6e8365605.5ac7f63a7c9c722e103b.js",
+      "static/chunks/pages/index-ee0b0e0e9e9a6fe7160d.js"
     ],
     "/_app": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/ee21ec4b31d9c7b318cea5284922641829921ca0.1f52a3ec41a5d5095e70.js",
+      "static/css/2f26bb9842d84a608fa3.css",
+      "static/chunks/pages/_app-d46a5195a180fea2cb55.js"
     ],
     "/_error": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/pages/_error-986b9ac52257fbcb5ebd.js"
+    ],
+    "/contato": [
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/pages/contato-add13649c478864ea323.js"
+    ],
+    "/receitas/doces/brigadeirao-gourmet": [
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/ee21ec4b31d9c7b318cea5284922641829921ca0.1f52a3ec41a5d5095e70.js",
+      "static/chunks/fc7724bc6d070af0151e44d2e675fed6e8365605.5ac7f63a7c9c722e103b.js",
+      "static/chunks/pages/receitas/doces/brigadeirao-gourmet-7689db87993b582d9c9e.js"
+    ],
+    "/receitas/doces/cookie": [
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/ee21ec4b31d9c7b318cea5284922641829921ca0.1f52a3ec41a5d5095e70.js",
+      "static/chunks/fc7724bc6d070af0151e44d2e675fed6e8365605.5ac7f63a7c9c722e103b.js",
+      "static/chunks/pages/receitas/doces/cookie-797286de2a748867fec5.js"
+    ],
+    "/receitas/doces/pudim": [
+      "static/chunks/main-2655500d03e7dd101362.js",
+      "static/chunks/webpack-95c2b224bccf352ee870.js",
+      "static/chunks/framework.fd7d444685e966a3fb38.js",
+      "static/chunks/ee21ec4b31d9c7b318cea5284922641829921ca0.1f52a3ec41a5d5095e70.js",
+      "static/chunks/fc7724bc6d070af0151e44d2e675fed6e8365605.5ac7f63a7c9c722e103b.js",
+      "static/chunks/pages/receitas/doces/pudim-04b64366872765793342.js"
     ]
   },
   "ampFirstPages": []

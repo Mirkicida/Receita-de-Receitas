@@ -1,4 +1,3 @@
-import Link from 'next/link';
 
 import Header from '../components/Header/Header'
 import Footer from '../components/Footer/Footer'
@@ -15,18 +14,21 @@ export default function Index(){
       imge="/img/pudim.png" 
       category="Doces" 
       name="Pudim"
+      link="/receitas/doces/pudim"
       />
 
       <RecipeCard 
       imge="/img/cookie.jpg" 
       category="Doces" 
       name="Cookie"
+      link="/receitas/doces/cookie"
       />
 
       <RecipeCard 
       imge="/img/brigadeirao-gourmet.jpeg" 
       category="Doces" 
       name="Brigadeiro"
+      link="/receitas/doces/brigadeirao-gourmet"
       />
 
 
